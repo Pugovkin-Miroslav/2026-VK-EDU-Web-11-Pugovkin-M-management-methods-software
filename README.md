@@ -7,4 +7,5 @@ Elevator Pitch
 
 Lean Canvas
 
-<img width="1036" height="669" alt="image" src="https://github.com/user-attachments/assets/40c10a8f-6d7a-4b3c-888c-d2b9901c2402" />
+<img width="1048" height="659" alt="image" src="https://github.com/user-attachments/assets/d3e68c73-3843-479d-b0b6-e6d12a18468e" />
+
